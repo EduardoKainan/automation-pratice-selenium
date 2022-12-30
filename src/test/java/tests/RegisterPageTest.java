@@ -20,6 +20,7 @@ public class RegisterPageTest {
     @AfterEach
     void tearDown() {
          this.registePage.quit();
+         //TESTANDO GIT BRANCH
     }
     @Test
     void test2() {

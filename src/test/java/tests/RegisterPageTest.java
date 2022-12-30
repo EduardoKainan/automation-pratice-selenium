@@ -19,7 +19,7 @@ public class RegisterPageTest {
     }
     @AfterEach
     void tearDown() {
-    //    this.registePage.quit();
+         this.registePage.quit();
     }
     @Test
     void test2() {
